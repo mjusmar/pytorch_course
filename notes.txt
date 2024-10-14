@@ -1,0 +1,7 @@
+1. Forward pass
+2. Calculate the loss
+3. Optimizer zero grad
+4. Loss backward (backpropagation)
+5. Optimizer step (gardient descent)
+
+
